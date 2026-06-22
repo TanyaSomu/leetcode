@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/TanyaSomu/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3871-count-commas-in-range-ii](https://github.com/TanyaSomu/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## String
 |  |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/TanyaSomu/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 <!---LeetCode Topics End-->
