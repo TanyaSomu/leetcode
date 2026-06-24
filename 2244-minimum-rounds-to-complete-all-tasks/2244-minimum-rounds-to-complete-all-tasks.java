@@ -9,9 +9,9 @@ class Solution {
         int res=0;
         for(int num:mp.values()){
             if(num==1) return -1;
-            // res+=num/3;
-            res+=(num+2)/3;
-            // if(num%3!=0) res++;
+            res+=num/3;
+            // res+=(num+2)/3;
+            if(num%3!=0) res++;
         }
         return res;
     }
