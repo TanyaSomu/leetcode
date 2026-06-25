@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/TanyaSomu/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3871-count-commas-in-range-ii](https://github.com/TanyaSomu/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/TanyaSomu/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -40,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/TanyaSomu/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -55,6 +58,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Two Pointers
 |  |
