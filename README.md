@@ -15,12 +15,14 @@
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TanyaSomu/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanyaSomu/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/TanyaSomu/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2284-sender-with-largest-word-count](https://github.com/TanyaSomu/leetcode/tree/master/2284-sender-with-largest-word-count) |
 ## Sliding Window
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/TanyaSomu/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanyaSomu/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/TanyaSomu/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Hash Table
 |  |
@@ -63,6 +65,7 @@
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanyaSomu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/TanyaSomu/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Simulation
 |  |
 | ------- |
@@ -73,6 +76,7 @@
 | [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1310-xor-queries-of-a-subarray](https://github.com/TanyaSomu/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/TanyaSomu/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Two Pointers
 |  |
 | ------- |
