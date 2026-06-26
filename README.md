@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/TanyaSomu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0853-car-fleet](https://github.com/TanyaSomu/leetcode/tree/master/0853-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/TanyaSomu/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
@@ -51,6 +52,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/TanyaSomu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Simulation
 |  |
