@@ -13,6 +13,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TanyaSomu/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanyaSomu/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -27,12 +28,14 @@
 | [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/TanyaSomu/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TanyaSomu/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TanyaSomu/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Dynamic Programming
 |  |
