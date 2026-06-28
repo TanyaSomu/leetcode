@@ -80,6 +80,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/TanyaSomu/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Greedy
 |  |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/TanyaSomu/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+## Linked List
+|  |
+| ------- |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/TanyaSomu/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
