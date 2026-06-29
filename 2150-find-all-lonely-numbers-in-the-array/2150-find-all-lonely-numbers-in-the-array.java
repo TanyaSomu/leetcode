@@ -1,16 +1,13 @@
 import java.util.*;
 class Solution {
     public List<Integer> findLonely(int[] nums) {
-        HashMap<Integer,Integer> map=new HashMap<>();
+        List<Integer> list=new ArrayList<>();
+        Arrays.sort(nums);
         for(int i=0;i<nums.length;i++){
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
-        }
-        List<Integer> list1=new ArrayList<>();
-        for(int num:nums){
-            if(map.get(num)==1  && !map.containsKey(num-1) && !map.containsKey(num+1)){
-                list1.add(num);
+            if((i==0 || nums[i]-nums[i-1]>1) && (i==nums.length-1 || nums[i+1]-nums[i]>1)){
+                list.add(nums[i]);
             }
         }
-        return list1;
+        return list;
     }
 }
