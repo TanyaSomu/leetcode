@@ -8,7 +8,8 @@ class Solution {
         for(int r=0;r<n;r++){
             maxF=Math.max(maxF,++count[answerKey.charAt(r)-'A']);
             while(r-l+1>maxF+k){
-                --count[answerKey.charAt(l++)-'A'];
+                --count[answerKey.charAt(l)-'A'];
+                l++;
             }
             result=Math.max(result,r-l+1);
         }
