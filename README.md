@@ -34,6 +34,7 @@
 | [0904-fruit-into-baskets](https://github.com/TanyaSomu/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TanyaSomu/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/TanyaSomu/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/TanyaSomu/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [3839-number-of-prefix-connected-groups](https://github.com/TanyaSomu/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
@@ -43,6 +44,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TanyaSomu/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/TanyaSomu/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/TanyaSomu/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [3839-number-of-prefix-connected-groups](https://github.com/TanyaSomu/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
@@ -62,6 +64,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/TanyaSomu/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/TanyaSomu/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/TanyaSomu/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2683-neighboring-bitwise-xor](https://github.com/TanyaSomu/leetcode/tree/master/2683-neighboring-bitwise-xor) |
