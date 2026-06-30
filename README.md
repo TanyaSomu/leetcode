@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0647-palindromic-substrings](https://github.com/TanyaSomu/leetcode/tree/master/0647-palindromic-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TanyaSomu/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanyaSomu/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -51,6 +52,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/TanyaSomu/leetcode/tree/master/0647-palindromic-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/TanyaSomu/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Array
@@ -90,6 +92,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/TanyaSomu/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TanyaSomu/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
