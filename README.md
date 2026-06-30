@@ -11,6 +11,7 @@
 ## String
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/TanyaSomu/leetcode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/TanyaSomu/leetcode/tree/master/0647-palindromic-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -32,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/TanyaSomu/leetcode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/TanyaSomu/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -45,6 +47,7 @@
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/TanyaSomu/leetcode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TanyaSomu/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
