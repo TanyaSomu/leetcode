@@ -21,6 +21,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/TanyaSomu/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2284-sender-with-largest-word-count](https://github.com/TanyaSomu/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2390-removing-stars-from-a-string](https://github.com/TanyaSomu/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TanyaSomu/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3839-number-of-prefix-connected-groups](https://github.com/TanyaSomu/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Sliding Window
 |  |
@@ -31,6 +32,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanyaSomu/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/TanyaSomu/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TanyaSomu/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/TanyaSomu/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/TanyaSomu/leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TanyaSomu/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3839-number-of-prefix-connected-groups](https://github.com/TanyaSomu/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Counting
 |  |
