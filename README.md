@@ -6,6 +6,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/TanyaSomu/leetcode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/TanyaSomu/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3871-count-commas-in-range-ii](https://github.com/TanyaSomu/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -130,6 +131,7 @@
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TanyaSomu/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/TanyaSomu/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/TanyaSomu/leetcode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TanyaSomu/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Enumeration
+|  |
+| ------- |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/TanyaSomu/leetcode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
