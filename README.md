@@ -92,6 +92,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/TanyaSomu/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2284-sender-with-largest-word-count](https://github.com/TanyaSomu/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/TanyaSomu/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2611-mice-and-cheese](https://github.com/TanyaSomu/leetcode/tree/master/2611-mice-and-cheese) |
 | [2683-neighboring-bitwise-xor](https://github.com/TanyaSomu/leetcode/tree/master/2683-neighboring-bitwise-xor) |
 | [3839-number-of-prefix-connected-groups](https://github.com/TanyaSomu/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Binary Search
@@ -131,6 +132,7 @@
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TanyaSomu/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/TanyaSomu/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2611-mice-and-cheese](https://github.com/TanyaSomu/leetcode/tree/master/2611-mice-and-cheese) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/TanyaSomu/leetcode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Sorting
 |  |
@@ -140,6 +142,7 @@
 | [0853-car-fleet](https://github.com/TanyaSomu/leetcode/tree/master/0853-car-fleet) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TanyaSomu/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/TanyaSomu/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2611-mice-and-cheese](https://github.com/TanyaSomu/leetcode/tree/master/2611-mice-and-cheese) |
 | [3913-sort-vowels-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -147,6 +150,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TanyaSomu/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2611-mice-and-cheese](https://github.com/TanyaSomu/leetcode/tree/master/2611-mice-and-cheese) |
 ## Bucket Sort
 |  |
 | ------- |
