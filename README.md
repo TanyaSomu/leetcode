@@ -37,6 +37,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/TanyaSomu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0299-bulls-and-cows](https://github.com/TanyaSomu/leetcode/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -71,6 +72,7 @@
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/TanyaSomu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/TanyaSomu/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanyaSomu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -166,4 +168,8 @@
 |  |
 | ------- |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TanyaSomu/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/TanyaSomu/leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
