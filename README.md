@@ -24,6 +24,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/TanyaSomu/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TanyaSomu/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3839-number-of-prefix-connected-groups](https://github.com/TanyaSomu/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
+| [3913-sort-vowels-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/TanyaSomu/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [3839-number-of-prefix-connected-groups](https://github.com/TanyaSomu/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
+| [3913-sort-vowels-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0853-car-fleet](https://github.com/TanyaSomu/leetcode/tree/master/0853-car-fleet) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TanyaSomu/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/TanyaSomu/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3913-sort-vowels-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
