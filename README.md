@@ -6,6 +6,7 @@
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TanyaSomu/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/TanyaSomu/leetcode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/TanyaSomu/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3871-count-commas-in-range-ii](https://github.com/TanyaSomu/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -51,6 +52,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/TanyaSomu/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/TanyaSomu/leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TanyaSomu/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TanyaSomu/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/TanyaSomu/leetcode/tree/master/3306-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3839-number-of-prefix-connected-groups](https://github.com/TanyaSomu/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
@@ -65,6 +67,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/TanyaSomu/leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2284-sender-with-largest-word-count](https://github.com/TanyaSomu/leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TanyaSomu/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3839-number-of-prefix-connected-groups](https://github.com/TanyaSomu/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 | [3913-sort-vowels-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Dynamic Programming
@@ -93,6 +96,7 @@
 | [2270-number-of-ways-to-split-array](https://github.com/TanyaSomu/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2284-sender-with-largest-word-count](https://github.com/TanyaSomu/leetcode/tree/master/2284-sender-with-largest-word-count) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/TanyaSomu/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TanyaSomu/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TanyaSomu/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2611-mice-and-cheese](https://github.com/TanyaSomu/leetcode/tree/master/2611-mice-and-cheese) |
 | [2683-neighboring-bitwise-xor](https://github.com/TanyaSomu/leetcode/tree/master/2683-neighboring-bitwise-xor) |
