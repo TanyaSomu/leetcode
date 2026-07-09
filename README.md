@@ -8,6 +8,7 @@
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TanyaSomu/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/TanyaSomu/leetcode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3618-split-array-by-prime-indices](https://github.com/TanyaSomu/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/TanyaSomu/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3871-count-commas-in-range-ii](https://github.com/TanyaSomu/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -100,6 +101,7 @@
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TanyaSomu/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2611-mice-and-cheese](https://github.com/TanyaSomu/leetcode/tree/master/2611-mice-and-cheese) |
 | [2683-neighboring-bitwise-xor](https://github.com/TanyaSomu/leetcode/tree/master/2683-neighboring-bitwise-xor) |
+| [3618-split-array-by-prime-indices](https://github.com/TanyaSomu/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3839-number-of-prefix-connected-groups](https://github.com/TanyaSomu/leetcode/tree/master/3839-number-of-prefix-connected-groups) |
 ## Binary Search
 |  |
@@ -193,4 +195,8 @@
 |  |
 | ------- |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/TanyaSomu/leetcode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+## Number Theory
+|  |
+| ------- |
+| [3618-split-array-by-prime-indices](https://github.com/TanyaSomu/leetcode/tree/master/3618-split-array-by-prime-indices) |
 <!---LeetCode Topics End-->
