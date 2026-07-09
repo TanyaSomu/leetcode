@@ -8,17 +8,20 @@ class Solution {
             // int a=spells[i];
             int left=0;
             int right=m-1;
-            while(left<right){
+            // int ans=m;
+            while(left<=right){
                 int mid=left+(right-left)/2;
                 if((long)spells[i]*potions[mid]>=success){
-                    right=mid;
+                    // ans=mid;
+                    right=mid-1;
                 }
                 else{
                     left=mid+1;
                 }
             }
-            if((long)spells[i]*potions[left]>=success) pair[i]=m-left;
-            else pair[i]=0;
+            // if((long)spells[i]*potions[left]>=success) pair[i]=m-left;
+            // else pair[i]=0;
+            pair[i]=m-left;
         }
         return pair;
     }
