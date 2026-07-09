@@ -96,6 +96,7 @@
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2270-number-of-ways-to-split-array](https://github.com/TanyaSomu/leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2284-sender-with-largest-word-count](https://github.com/TanyaSomu/leetcode/tree/master/2284-sender-with-largest-word-count) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/TanyaSomu/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/TanyaSomu/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TanyaSomu/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TanyaSomu/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -110,6 +111,7 @@
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/TanyaSomu/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/TanyaSomu/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Simulation
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TanyaSomu/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/TanyaSomu/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/TanyaSomu/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TanyaSomu/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Greedy
@@ -150,6 +153,7 @@
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/TanyaSomu/leetcode/tree/master/0853-car-fleet) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TanyaSomu/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/TanyaSomu/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/TanyaSomu/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TanyaSomu/leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2611-mice-and-cheese](https://github.com/TanyaSomu/leetcode/tree/master/2611-mice-and-cheese) |
