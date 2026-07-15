@@ -88,6 +88,7 @@
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/TanyaSomu/leetcode/tree/master/0853-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/TanyaSomu/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0946-validate-stack-sequences](https://github.com/TanyaSomu/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1310-xor-queries-of-a-subarray](https://github.com/TanyaSomu/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -116,6 +117,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/TanyaSomu/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2390-removing-stars-from-a-string](https://github.com/TanyaSomu/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/TanyaSomu/leetcode/tree/master/0853-car-fleet) |
+| [0946-validate-stack-sequences](https://github.com/TanyaSomu/leetcode/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/TanyaSomu/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
