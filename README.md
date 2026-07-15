@@ -83,6 +83,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/TanyaSomu/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/TanyaSomu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/TanyaSomu/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0324-wiggle-sort-ii](https://github.com/TanyaSomu/leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -112,6 +113,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/TanyaSomu/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanyaSomu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
