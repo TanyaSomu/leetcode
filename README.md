@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/TanyaSomu/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0413-arithmetic-slices](https://github.com/TanyaSomu/leetcode/tree/master/0413-arithmetic-slices) |
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/TanyaSomu/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TanyaSomu/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -77,6 +78,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/TanyaSomu/leetcode/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/TanyaSomu/leetcode/tree/master/0647-palindromic-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/TanyaSomu/leetcode/tree/master/3857-minimum-cost-to-split-into-ones) |
@@ -87,6 +89,7 @@
 | [0073-set-matrix-zeroes](https://github.com/TanyaSomu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0238-product-of-array-except-self](https://github.com/TanyaSomu/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0324-wiggle-sort-ii](https://github.com/TanyaSomu/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0413-arithmetic-slices](https://github.com/TanyaSomu/leetcode/tree/master/0413-arithmetic-slices) |
 | [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanyaSomu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
