@@ -16,6 +16,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/TanyaSomu/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0299-bulls-and-cows](https://github.com/TanyaSomu/leetcode/tree/master/0299-bulls-and-cows) |
+| [0443-string-compression](https://github.com/TanyaSomu/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/TanyaSomu/leetcode/tree/master/0647-palindromic-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -144,6 +145,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/TanyaSomu/leetcode/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/TanyaSomu/leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TanyaSomu/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
