@@ -192,6 +192,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TanyaSomu/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0853-car-fleet](https://github.com/TanyaSomu/leetcode/tree/master/0853-car-fleet) |
 | [0946-validate-stack-sequences](https://github.com/TanyaSomu/leetcode/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/TanyaSomu/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -246,5 +247,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TanyaSomu/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0419-battleships-in-a-board](https://github.com/TanyaSomu/leetcode/tree/master/0419-battleships-in-a-board) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TanyaSomu/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TanyaSomu/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
