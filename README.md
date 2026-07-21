@@ -91,6 +91,7 @@
 | [0324-wiggle-sort-ii](https://github.com/TanyaSomu/leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TanyaSomu/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/TanyaSomu/leetcode/tree/master/0413-arithmetic-slices) |
+| [0419-battleships-in-a-board](https://github.com/TanyaSomu/leetcode/tree/master/0419-battleships-in-a-board) |
 | [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanyaSomu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TanyaSomu/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TanyaSomu/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/TanyaSomu/leetcode/tree/master/0419-battleships-in-a-board) |
 ## Enumeration
 |  |
 | ------- |
@@ -239,4 +241,8 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/TanyaSomu/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Depth-First Search
+|  |
+| ------- |
+| [0419-battleships-in-a-board](https://github.com/TanyaSomu/leetcode/tree/master/0419-battleships-in-a-board) |
 <!---LeetCode Topics End-->
