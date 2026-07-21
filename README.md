@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/TanyaSomu/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0537-complex-number-multiplication](https://github.com/TanyaSomu/leetcode/tree/master/0537-complex-number-multiplication) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/TanyaSomu/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/TanyaSomu/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/TanyaSomu/leetcode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
@@ -18,6 +19,7 @@
 | [0299-bulls-and-cows](https://github.com/TanyaSomu/leetcode/tree/master/0299-bulls-and-cows) |
 | [0443-string-compression](https://github.com/TanyaSomu/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0537-complex-number-multiplication](https://github.com/TanyaSomu/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0647-palindromic-substrings](https://github.com/TanyaSomu/leetcode/tree/master/0647-palindromic-substrings) |
 | [1189-maximum-number-of-balloons](https://github.com/TanyaSomu/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TanyaSomu/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -129,6 +131,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/TanyaSomu/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0946-validate-stack-sequences](https://github.com/TanyaSomu/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2390-removing-stars-from-a-string](https://github.com/TanyaSomu/leetcode/tree/master/2390-removing-stars-from-a-string) |
