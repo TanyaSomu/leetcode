@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/TanyaSomu/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
 | [0299-bulls-and-cows](https://github.com/TanyaSomu/leetcode/tree/master/0299-bulls-and-cows) |
 | [0443-string-compression](https://github.com/TanyaSomu/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/TanyaSomu/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -253,6 +254,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/TanyaSomu/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/TanyaSomu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
 | [0419-battleships-in-a-board](https://github.com/TanyaSomu/leetcode/tree/master/0419-battleships-in-a-board) |
 ## Tree
 |  |
@@ -260,15 +262,21 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/TanyaSomu/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/TanyaSomu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanyaSomu/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/TanyaSomu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/TanyaSomu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
