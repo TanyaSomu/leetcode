@@ -256,6 +256,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
 | [0419-battleships-in-a-board](https://github.com/TanyaSomu/leetcode/tree/master/0419-battleships-in-a-board) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -263,6 +264,7 @@
 | [0101-symmetric-tree](https://github.com/TanyaSomu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -270,6 +272,7 @@
 | [0101-symmetric-tree](https://github.com/TanyaSomu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
