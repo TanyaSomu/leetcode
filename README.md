@@ -265,6 +265,7 @@
 | [0101-symmetric-tree](https://github.com/TanyaSomu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/TanyaSomu/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -274,6 +275,7 @@
 | [0101-symmetric-tree](https://github.com/TanyaSomu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/TanyaSomu/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -286,4 +288,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/TanyaSomu/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
