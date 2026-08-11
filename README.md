@@ -200,6 +200,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TanyaSomu/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/TanyaSomu/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0853-car-fleet](https://github.com/TanyaSomu/leetcode/tree/master/0853-car-fleet) |
 | [0946-validate-stack-sequences](https://github.com/TanyaSomu/leetcode/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/TanyaSomu/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -271,6 +272,7 @@
 | [0098-validate-binary-search-tree](https://github.com/TanyaSomu/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/TanyaSomu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/TanyaSomu/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TanyaSomu/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanyaSomu/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
@@ -286,6 +288,7 @@
 | [0098-validate-binary-search-tree](https://github.com/TanyaSomu/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/TanyaSomu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/TanyaSomu/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TanyaSomu/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanyaSomu/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
@@ -308,6 +311,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/TanyaSomu/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/TanyaSomu/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TanyaSomu/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanyaSomu/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/TanyaSomu/leetcode/tree/master/0450-delete-node-in-a-bst) |
@@ -321,4 +325,12 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanyaSomu/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/TanyaSomu/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/TanyaSomu/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
