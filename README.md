@@ -163,6 +163,7 @@
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/TanyaSomu/leetcode/tree/master/0324-wiggle-sort-ii) |
+| [0765-couples-holding-hands](https://github.com/TanyaSomu/leetcode/tree/master/0765-couples-holding-hands) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/TanyaSomu/leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TanyaSomu/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TanyaSomu/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
@@ -217,6 +218,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0765-couples-holding-hands](https://github.com/TanyaSomu/leetcode/tree/master/0765-couples-holding-hands) |
 | [2285-maximum-total-importance-of-roads](https://github.com/TanyaSomu/leetcode/tree/master/2285-maximum-total-importance-of-roads) |
 ## Linked List
 |  |
@@ -263,6 +265,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TanyaSomu/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/TanyaSomu/leetcode/tree/master/0257-binary-tree-paths) |
 | [0419-battleships-in-a-board](https://github.com/TanyaSomu/leetcode/tree/master/0419-battleships-in-a-board) |
+| [0765-couples-holding-hands](https://github.com/TanyaSomu/leetcode/tree/master/0765-couples-holding-hands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Tree
@@ -302,6 +305,7 @@
 | ------- |
 | [0101-symmetric-tree](https://github.com/TanyaSomu/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0765-couples-holding-hands](https://github.com/TanyaSomu/leetcode/tree/master/0765-couples-holding-hands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/TanyaSomu/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Backtracking
 |  |
@@ -333,4 +337,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/TanyaSomu/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Union-Find
+|  |
+| ------- |
+| [0765-couples-holding-hands](https://github.com/TanyaSomu/leetcode/tree/master/0765-couples-holding-hands) |
 <!---LeetCode Topics End-->
