@@ -101,6 +101,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/TanyaSomu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/TanyaSomu/leetcode/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/TanyaSomu/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/TanyaSomu/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/TanyaSomu/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/TanyaSomu/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -128,6 +129,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TanyaSomu/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanyaSomu/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/TanyaSomu/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/TanyaSomu/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/TanyaSomu/leetcode/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/TanyaSomu/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/TanyaSomu/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
